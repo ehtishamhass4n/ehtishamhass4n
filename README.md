@@ -82,7 +82,7 @@ Currently, I’m focusing on improving my skills in **Laravel** and **MySQL**, w
 
 ## 📫 Connect With Me
 
-- 💼 **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)  
+- 💼 **GitHub:** [github.com/ehtishamhass4n](https://github.com/ehtishamhass4n)  
 - 📧 **Email:** ehtishamh538@gmail.com 
 - 🌐 **Portfolio (Coming Soon!)**
 
@@ -90,9 +90,3 @@ Currently, I’m focusing on improving my skills in **Laravel** and **MySQL**, w
 
 ⭐ *"Code, Learn, and Build something amazing every day!"*  
 )  
-- 📧 **Email:** ehtisham456 
-- 🌐 **Portfolio (Coming Soon!)**
-
----
-
-⭐ *"Code, Learn, and Build something amazing every day!"*  

@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Ehtisham Hassan
 
-<!--
-**ehtishamhass4n/ehtishamhass4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Backend Developer** | 💻 **PHP | Laravel | MySQL | JavaScript | HTML | CSS**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate **Backend Developer (Fresher)** who loves building dynamic and efficient web applications.  
+Currently, I’m focusing on improving my skills in **Laravel** and **MySQL**, while also exploring front-end basics to become a well-rounded developer.
+
+---
+
+## 🧠 Skills & Technologies
+
+### 💻 Languages & Frameworks
+- PHP  
+- Laravel  
+- JavaScript  
+- HTML5  
+- CSS3  
+
+### 🗄️ Databases
+- MySQL  
+
+### 🧰 Tools & Platforms
+- VS Code  
+- Git & GitHub  
+- XAMPP / Laragon  
+- Postman  
+
+---
+
+## 📈 What I'm Learning
+- Advanced Laravel Concepts (Eloquent, API Development)
+- RESTful API integration
+- JavaScript ES6+ features
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)  
+- 📧 **Email:** your.email@example.com  
+- 🌐 **Portfolio (Coming Soon!)**
+
+---
+
+⭐ *"Code, Learn, and Build something amazing every day!"*  
